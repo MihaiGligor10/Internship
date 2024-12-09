@@ -1,0 +1,10 @@
+13:23:27 **** Build of configuration Debug for project Trial_servo_PWM ****
+make -j12 all 
+arm-none-eabi-size  Trial_servo_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12568	     20	   1644	  14232	   3798	Trial_servo_PWM.elf
+Finished building: default.size.stdout
+ 
+
+13:23:27 Build Finished. 0 errors, 0 warnings. (took 627ms)
+

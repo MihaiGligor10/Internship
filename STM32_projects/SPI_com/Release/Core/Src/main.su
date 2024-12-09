@@ -1,0 +1,17 @@
+../Core/Src/main.c:235:6:SystemClock_Config	96	static,ignoring_inline_asm
+../Core/Src/main.c:441:6:SPI_init_device1	8	static
+../Core/Src/main.c:448:6:SPI_stop_device1	8	static
+../Core/Src/main.c:456:6:SPI_init_device2	8	static
+../Core/Src/main.c:463:6:SPI_stop_device2	8	static
+../Core/Src/main.c:470:6:SPI_init	0	static
+../Core/Src/main.c:483:6:SPI_stop	0	static
+../Core/Src/main.c:511:6:SPI_writeBit	8	static
+../Core/Src/main.c:526:6:SPI_writeWord	16	static
+../Core/Src/main.c:537:6:SPI_writeData	16	static
+../Core/Src/main.c:561:6:SPI_draw	16	static
+../Core/Src/main.c:574:8:numberSelect	0	static
+../Core/Src/main.c:616:6:HAL_TIM_PeriodElapsedCallback	0	static
+../Core/Src/main.c:632:6:blink_LED	0	static
+../Core/Src/main.c:641:6:SPI_draw_numbers	16	static
+../Core/Src/main.c:183:5:main	72	static,ignoring_inline_asm
+../Core/Src/main.c:665:6:Error_Handler	0	static,ignoring_inline_asm

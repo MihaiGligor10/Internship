@@ -1,0 +1,10 @@
+13:23:25 **** Build of configuration Debug for project Trial_LED ****
+make -j12 all 
+arm-none-eabi-size  Trial_LED.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6748	     20	   1572	   8340	   2094	Trial_LED.elf
+Finished building: default.size.stdout
+ 
+
+13:23:26 Build Finished. 0 errors, 0 warnings. (took 708ms)
+

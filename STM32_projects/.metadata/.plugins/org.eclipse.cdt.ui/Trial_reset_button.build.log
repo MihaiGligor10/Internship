@@ -1,0 +1,10 @@
+17:17:12 **** Build of configuration Debug for project Trial_reset_button ****
+make -j12 all 
+arm-none-eabi-size  Trial_reset_button.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23444	     20	   3356	  26820	   68c4	Trial_reset_button.elf
+Finished building: default.size.stdout
+ 
+
+17:17:13 Build Finished. 0 errors, 0 warnings. (took 943ms)
+

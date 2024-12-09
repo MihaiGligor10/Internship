@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;FreeRTOS&apos;" deleteContents="true" description="Delete resource &apos;FreeRTOS&apos;" element1="/FreeRTOS" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1704699087697"/>&#x0A;<refactoring comment="Delete resource &apos;Trial_reset_button&apos;" deleteContents="true" description="Delete resource &apos;Trial_reset_button&apos;" element1="/Trial_reset_button" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1704960283530"/>
+</session>

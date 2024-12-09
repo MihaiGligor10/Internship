@@ -1,0 +1,10 @@
+13:23:26 **** Build of configuration Debug for project Trial_button ****
+make -j12 all 
+arm-none-eabi-size  Trial_button.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7080	     20	   1572	   8672	   21e0	Trial_button.elf
+Finished building: default.size.stdout
+ 
+
+13:23:26 Build Finished. 0 errors, 0 warnings. (took 693ms)
+
